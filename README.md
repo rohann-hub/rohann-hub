@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohann-hub&label=Profile%20views&color=0e75b6&style=flat" alt="rohann-hub" /> </p>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **AI and Data analysis**
 
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I’m currently learning **UI/UX , Power BI , Tablue**
 
 - 📫 How to reach me **roh4nn001@gmail.com**
 
