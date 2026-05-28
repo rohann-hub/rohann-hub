@@ -44,6 +44,10 @@ Computer Science Student | Specialized in AI, Data Science & Full-Stack Developm
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cpp" height="50" />
   </a>
+  
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" height="50" />
+  </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" height="50" />
@@ -53,9 +57,7 @@ Computer Science Student | Specialized in AI, Data Science & Full-Stack Developm
     <img src="https://skillicons.dev/icons?i=ts" height="50" />
   </a>
 
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" height="50" />
-  </a>
+
 
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" height="50" />
