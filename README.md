@@ -114,7 +114,21 @@ Computer Science Student | Specialized in AI, Data Science & Full-Stack Developm
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postman" height="50" />
   </a>
+  
+ <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
+ </a>
 
+ <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="Supabase" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" />
+</a>
+
+<a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" />
+</a>
 
 
 
