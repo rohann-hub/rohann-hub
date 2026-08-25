@@ -30,6 +30,10 @@ Computer Science Student | Specialized in AI, Data Science & Full-Stack Developm
     <img src="https://skillicons.dev/icons?i=vercel" height="50" />
   </a>
 
+  <a href="https://discord.com/users/rohan_7x" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=discord" height="50" alt="Discord" />
+</a>
+
 
 </p>
 
