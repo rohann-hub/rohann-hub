@@ -35,6 +35,9 @@ Computer Science Student | Specialized in AI, Data Science & Full-Stack Developm
 </a>
 
 
+
+
+
 </p>
 
 <h3 align="left">💻 Languages:</h3>
@@ -138,6 +141,11 @@ Computer Science Student | Specialized in AI, Data Science & Full-Stack Developm
   <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="50" alt="Burp Suite" />
 </a>
 
+<a href="https://laragon.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.simpleicons.org/laragon/0E83CD" height="50" alt="Laragon" />
+</a>
+
+
 
 
 
@@ -164,6 +172,12 @@ Computer Science Student | Specialized in AI, Data Science & Full-Stack Developm
   <img src="https://img.shields.io/badge/platform-GitHub-181717?logo=github" />
   <img src="https://img.shields.io/badge/editor-VS%20Code-007ACC?logo=visualstudiocode" />
   <img src="https://img.shields.io/badge/package-NPM-CB3837?logo=npm" />
+  <a href="https://laragon.org/" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/-Laragon-0E83CD?style=flat&logo=laragon&logoColor=white"
+    alt="Laragon Badge"
+  />
+</a>
 
 
 </p>
