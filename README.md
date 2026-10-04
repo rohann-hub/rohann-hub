@@ -137,9 +137,9 @@ Computer Science Student | Specialized in AI, Data Science & Full-Stack Developm
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" />
 </a>
 
-<a href="https://portswigger.net/burp" target="_blank">
+<!-- <a href="https://portswigger.net/burp" target="_blank">
   <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="50" alt="Burp Suite" />
-</a>
+</a> -->
 
 <a href="https://laragon.org/" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.simpleicons.org/laragon/0E83CD" height="50" alt="Laragon" />
